@@ -1,0 +1,28 @@
+{
+	"animals":[
+	{
+	"name":"African elephant",
+	"height":"3"
+	},
+	{
+	"name":"Brown bear",
+	"height":"4"
+	},
+	{
+	"name":"Saltwater crocodile",
+	"height":"6"
+	},
+	{
+	"name":"Giraffe",
+	"height":"6"
+	},
+	{
+	"name":"Lion's Mane Jellyfish",
+	"height":"30"
+	},
+	{
+	"name":"Blue whale",
+	"height":"30"
+	}
+	]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+<animal>
+    <name>African elephant</name>
+    <height>3</height>
+</animal>
+
+<animal>
+    <name>Brown bear</name>
+    <height>4</height>
+</animal>
+
+<animal>
+    <name>Saltwater crocodile</name>
+    <height>6</height>
+</animal>
+</animals>
+
+
